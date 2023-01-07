@@ -38,5 +38,3 @@ def slap_many(s: LikeState, slaps: str) -> LikeState:
         else:
             raise ValueError('invalid slap')
     return s
-
-
